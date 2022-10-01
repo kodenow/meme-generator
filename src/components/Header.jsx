@@ -1,7 +1,7 @@
 import React from "react";
 import trollFace from "../images/troll-face.png";
 
-export default function Navbar() {
+export default function Header() {
   return (
     <header className="header">
       <img className="header--image" src={trollFace} />
